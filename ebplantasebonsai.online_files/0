@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport"
+          content="width=device-width, initial-scale=1.0">
+    <meta name="checkout-white"
+          content="1">
+    <meta http-equiv="X-UA-Compatible"
+          content="ie=edge">
+    <title>Ops! Parece que essa página não existe</title>
+    <link rel="stylesheet"
+          href="https://checkout.ebplantasebonsai.shop/css/not-found.min.css">
+    <link href="https://fonts.googleapis.com/css?family=Inter:400,700,800&display=swap"
+          rel="stylesheet">
+    </head>
+<body>
+<div class="d-flex text-center div-notfound">
+    <img class="svgorange"
+         src="https://checkout.ebplantasebonsai.shop/images/www.svg"
+         width="150px">
+    <h1 class="big">Ops!</h1>
+            <p> Esse produto não está disponível <br> para venda ou não existe :( </p>
+    </div>
+</body>
+</html>

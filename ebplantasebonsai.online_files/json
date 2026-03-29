@@ -1,0 +1,12 @@
+/**/ console &&console.log &&console.log({"ip":"138.117.46.128","hostname":"138-117-46-128.dgtelecom.com.br","city":"Bofete","region":"São Paulo","country":"BR","loc":"-23.1022,-48.2578","org":"AS273363 YASMIN ARUAM DOS SANTOS FERREIRA DE MORAES","postal":"18590-000","timezone":"America/Sao_Paulo","readme":"https://ipinfo.io/missingauth"}); typeof mostrarLocalizacao === 'function' && mostrarLocalizacao({
+  "ip": "138.117.46.128",
+  "hostname": "138-117-46-128.dgtelecom.com.br",
+  "city": "Bofete",
+  "region": "São Paulo",
+  "country": "BR",
+  "loc": "-23.1022,-48.2578",
+  "org": "AS273363 YASMIN ARUAM DOS SANTOS FERREIRA DE MORAES",
+  "postal": "18590-000",
+  "timezone": "America/Sao_Paulo",
+  "readme": "https://ipinfo.io/missingauth"
+});
